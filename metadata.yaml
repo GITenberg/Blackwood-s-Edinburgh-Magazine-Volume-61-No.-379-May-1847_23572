@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23572#Blackwood-s-Edinburgh-Magazine-Volume-61-No.-379-May-1847
 gutenberg_bookshelf: Blackwood's Edinburgh Magazine
 gutenberg_issued: '2007-11-20'
 gutenberg_type: Text
